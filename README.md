@@ -1,2 +1,2 @@
 # iced_views
-Views logic for Iced application
+Stacked views logic for Iced application
